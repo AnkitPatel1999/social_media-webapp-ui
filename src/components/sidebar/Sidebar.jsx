@@ -1,6 +1,6 @@
 import React from 'react'
 import './sidebar.css'
-import {RssFeed, Chat, PlayCircleFilled, Group, Bookmark, HelpOutline, WorkOutline, Event, School, Close } from '@material-ui/icons'
+import {RssFeed, Chat, PlayCircleFilled, Group, Bookmark, HelpOutline, WorkOutline, Event, School } from '@material-ui/icons'
 import CloseFriends from '../closefriends/CloseFriends'
 import {Users} from '../../dummyData'
 
